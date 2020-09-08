@@ -1,0 +1,66 @@
+[
+  {
+    "nombre": "Mancuernas",
+    "descripcion": "Mancuernas desde 1,5 kg ",
+    "precio": "375",
+    "descuento": "0",
+    "oldImagen": "plato-1599537460738.PNG",
+    "id": "1",
+    "imagen": "plato-1599537460738.PNG",
+    "recomendado": 1
+  },
+  {
+    "nombre": "Discos de 2,5Kg",
+    "descripcion": "Hierro fundición . Preguntar precio por cantidad. 250 por Kilo",
+    "precio": "625",
+    "descuento": "0",
+    "oldImagen": "plato-1599537684477.PNG",
+    "id": "2",
+    "imagen": "plato-1599537684477.PNG",
+    "recomendado": 1
+  },
+  {
+    "nombre": "Disco por 10kg",
+    "descripcion": "Precio por kilo 250",
+    "precio": "2500",
+    "descuento": "0",
+    "oldImagen": "plato-1599102870493.jpg",
+    "id": "3",
+    "imagen": "plato-1599567922607.PNG",
+    "recomendado": 1
+  },
+  {
+    "nombre": "Discos de 5Kg",
+    "descripcion": "Precio por kilo 250",
+    "precio": "1250",
+    "descuento": "0",
+    "oldImagen": "plato-1599102936435.jpg",
+    "id": "4",
+    "imagen": "plato-1599568000737.PNG",
+    "recomendado": 1
+  },
+  {
+    "id": "5",
+    "nombre": "Disco de 20 kg",
+    "descripcion": "Precio por kilo 250",
+    "precio": "5000",
+    "imagen": "plato-1599568915207.PNG",
+    "recomendado": 0
+  },
+  {
+    "id": "6",
+    "nombre": "Barras",
+    "descripcion": "a partir de Noviembre",
+    "precio": "250",
+    "imagen": "plato-1599569407133.PNG",
+    "recomendado": 0
+  },
+  {
+    "id": "7",
+    "nombre": "Pesa rusa",
+    "descripcion": "A partir de Noviembre",
+    "precio": "250",
+    "imagen": "plato-1599569442304.jpg",
+    "recomendado": 0
+  }
+]
